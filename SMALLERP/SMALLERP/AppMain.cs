@@ -5,14 +5,9 @@ using SMALLERP.ComClass;
 using SMALLERP.DataClass;
 
 namespace SMALLERP
-{   
-    //////更多大型项目源码http://yulei133.3322.org/
-    
+{   //////更多大型项目源码http://yulei133.3322.org/
     public partial class AppMain : Form
     {
-        
-        //panchzh
-        
         private DataBase db;
 
         public AppMain()
