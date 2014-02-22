@@ -608,6 +608,7 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <None Include="bin\Debug\SMALLERP.ini" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -793,6 +794,13 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="bin\Debug\CrystalDecisions.CrystalReports.Engine.dll" />
+    <Content Include="bin\Debug\CrystalDecisions.ReportSource.dll" />
+    <Content Include="bin\Debug\CrystalDecisions.Shared.dll" />
+    <Content Include="bin\Debug\CrystalDecisions.Windows.Forms.dll" />
+    <Content Include="bin\Debug\SMALLERP.exe" />
+    <Content Include="bin\Debug\SMALLERP.pdb" />
+    <Content Include="bin\Debug\SMALLERP.vshost.exe" />
     <Content Include="Dlls\CrystalDecisions.CrystalReports.Engine.dll" />
     <Content Include="Dlls\CrystalDecisions.Data.AdoDotNetInterop.dll" />
     <Content Include="Dlls\CrystalDecisions.Enterprise.Framework.dll" />
