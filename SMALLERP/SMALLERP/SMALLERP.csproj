@@ -611,6 +611,9 @@
     <None Include="bin\Debug\SMALLERP.ini" />
     <None Include="bin\Release\SMALLERP.ini" />
     <None Include="bin\Release\SMALLERP.vshost.exe.manifest" />
+    <None Include="pcz\Debug\SMALLERP.ini" />
+    <None Include="pcz\Release\SMALLERP.ini" />
+    <None Include="pcz\Release\SMALLERP.vshost.exe.manifest" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -880,6 +883,16 @@
     <Content Include="Images\OT\确定.BMP" />
     <Content Include="Images\OT\系统登录界面.bmp" />
     <Content Include="Images\OT\系统登录界面01.BMP" />
+    <Content Include="pcz\Debug\CrystalDecisions.CrystalReports.Engine.dll" />
+    <Content Include="pcz\Debug\CrystalDecisions.ReportSource.dll" />
+    <Content Include="pcz\Debug\CrystalDecisions.Shared.dll" />
+    <Content Include="pcz\Debug\CrystalDecisions.Windows.Forms.dll" />
+    <Content Include="pcz\Debug\SMALLERP.exe" />
+    <Content Include="pcz\Debug\SMALLERP.pdb" />
+    <Content Include="pcz\Debug\SMALLERP.vshost.exe" />
+    <Content Include="pcz\Release\SMALLERP.exe" />
+    <Content Include="pcz\Release\SMALLERP.pdb" />
+    <Content Include="pcz\Release\SMALLERP.vshost.exe" />
   </ItemGroup>
   <ItemGroup>
     <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
