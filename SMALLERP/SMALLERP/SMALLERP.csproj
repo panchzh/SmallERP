@@ -252,6 +252,9 @@
     <Compile Include="FI\FormFISelCost.Designer.cs">
       <DependentUpon>FormFISelCost.cs</DependentUpon>
     </Compile>
+    <Compile Include="pcz\panchzhClass.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="PR\FormBrowsePRPlan.cs">
       <SubType>Form</SubType>
     </Compile>
