@@ -609,6 +609,8 @@
       <DesignTime>True</DesignTime>
     </Compile>
     <None Include="bin\Debug\SMALLERP.ini" />
+    <None Include="bin\Release\SMALLERP.ini" />
+    <None Include="bin\Release\SMALLERP.vshost.exe.manifest" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -801,6 +803,9 @@
     <Content Include="bin\Debug\SMALLERP.exe" />
     <Content Include="bin\Debug\SMALLERP.pdb" />
     <Content Include="bin\Debug\SMALLERP.vshost.exe" />
+    <Content Include="bin\Release\SMALLERP.exe" />
+    <Content Include="bin\Release\SMALLERP.pdb" />
+    <Content Include="bin\Release\SMALLERP.vshost.exe" />
     <Content Include="Dlls\CrystalDecisions.CrystalReports.Engine.dll" />
     <Content Include="Dlls\CrystalDecisions.Data.AdoDotNetInterop.dll" />
     <Content Include="Dlls\CrystalDecisions.Enterprise.Framework.dll" />
