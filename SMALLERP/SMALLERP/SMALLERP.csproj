@@ -802,13 +802,6 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="bin\Debug\CrystalDecisions.CrystalReports.Engine.dll" />
-    <Content Include="bin\Debug\CrystalDecisions.ReportSource.dll" />
-    <Content Include="bin\Debug\CrystalDecisions.Shared.dll" />
-    <Content Include="bin\Debug\CrystalDecisions.Windows.Forms.dll" />
-    <Content Include="bin\Debug\SMALLERP.exe" />
-    <Content Include="bin\Debug\SMALLERP.pdb" />
-    <Content Include="bin\Debug\SMALLERP.vshost.exe" />
     <Content Include="bin\Release\SMALLERP.exe" />
     <Content Include="bin\Release\SMALLERP.pdb" />
     <Content Include="bin\Release\SMALLERP.vshost.exe" />
@@ -937,6 +930,7 @@
       <Install>true</Install>
     </BootstrapperPackage>
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
