@@ -611,7 +611,6 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
-    <None Include="bin\Debug\SMALLERP.ini" />
     <None Include="bin\Release\SMALLERP.ini" />
     <None Include="bin\Release\SMALLERP.vshost.exe.manifest" />
     <None Include="pcz\Debug\SMALLERP.ini" />
@@ -930,7 +929,9 @@
       <Install>true</Install>
     </BootstrapperPackage>
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="bin\Debug\" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
