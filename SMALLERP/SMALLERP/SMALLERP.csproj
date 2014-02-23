@@ -85,6 +85,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="bin\Debug\Class1.cs" />
     <Compile Include="ComClass\Chart.cs" />
     <Compile Include="ComClass\CommonUse.cs" />
     <Compile Include="ComClass\OperatorFile.cs" />
