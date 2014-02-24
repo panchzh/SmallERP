@@ -253,6 +253,7 @@
       <DependentUpon>FormFISelCost.cs</DependentUpon>
     </Compile>
     <Compile Include="pcz\Class1panchzh.cs" />
+    <Compile Include="pcz\ClassasDFSD1.cs" />
     <Compile Include="pcz\panchzhClass.cs">
       <SubType>Code</SubType>
     </Compile>
