@@ -15,8 +15,13 @@ namespace SMALLERP
             //panchzh
             //系统主函数
             //panchzh
-             
-            Application.EnableVisualStyles(); 
+
+
+
+
+
+
+            Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Login());
 
